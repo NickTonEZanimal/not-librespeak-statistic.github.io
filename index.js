@@ -5,13 +5,13 @@ import './3rd-party/firebase-database.js'
 import './3rd-party/lightweight-charts.standalone.production.js'
 
 const firebaseConfig = {
-  apiKey: 'AIzaSyDSkxxl1QQxaYibhcNohcIWLhdiddT3VrQ',
-  authDomain: 'librespeak-ccc37.firebaseapp.com',
-  databaseURL: 'https://librespeak-ccc37-default-rtdb.europe-west1.firebasedatabase.app',
-  projectId: 'librespeak-ccc37',
-  storageBucket: 'librespeak-ccc37.appspot.com',
-  messagingSenderId: '128906723614',
-  appId: '1:128906723614:web:9d4269bb0581a9d383890f'
+  apiKey: 'AIzaSyACS_fW9fiDEgCOZSBukKe-OBlbvlNU4rE',
+  authDomain: 'bstat-9075b.firebaseapp.com',
+  databaseURL: 'https://bstat-9075b-default-rtdb.europe-west1.firebasedatabase.app',
+  projectId: 'bstat-9075b',
+  storageBucket: 'bstat-9075b.appspot.com',
+  messagingSenderId: '981942669785',
+  appId: '1:981942669785:web:f211e285240079348dc9c8'
 }
 firebase.initializeApp(firebaseConfig)
 
